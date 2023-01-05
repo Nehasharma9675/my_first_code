@@ -1,0 +1,4 @@
+def recursion(n):
+	if i == 0:
+	  print (n)
+	
